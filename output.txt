@@ -1,0 +1,2 @@
+hi,
+	content of output.txt
